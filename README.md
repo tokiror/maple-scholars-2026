@@ -10,7 +10,7 @@ This project investigates the natural water "reservoirs" — groundwater, soil m
 
 The research is motivated by a public-health link. A previous study in the region found that a drought appeared to end earlier than rainfall alone could explain, coinciding with a measured drop in crop mycotoxins (toxins produced by fungi under crop stress). If a natural water source eased that drought sooner than expected, understanding it could have implications for food safety and water management across similar dryland farming regions.
 
-**Researcher:** [Your Name]
+**Researcher:** Timothy Masaba Okiror
 **Faculty Mentor:** Prof. Paul Meyer Reimer (Physics)
 **Institution:** Goshen College
 
